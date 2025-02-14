@@ -18,8 +18,9 @@ except ImportError:
         return ['uarm', 'uarm.comm', 'uarm.utils', 'uarm.tools', 'uarm.wrapper', 'uarm.swift', 'uarm.metal']
 
 main_ns = {}
-ver_path = convert_path('uarm/version.py')
-with open(os.path.join(os.getcwd(), ver_path)) as ver_file:
+here = os.path.abspath(os.path.dirname(__file__))
+ver_path = os.path.join(here, convert_path('uarm/version.py'))
+with open(ver_path) as ver_file:
     exec(ver_file.read(), main_ns)
 
 version = main_ns['__version__']
@@ -27,7 +28,7 @@ version = main_ns['__version__']
 # long_description = open('README.rst').read()
 long_description = 'long description for uarm'
 
-with open(os.path.join(os.getcwd(), 'requirements.txt')) as f:
+with open(os.path.join(here, 'requirements.txt')) as f:
     requirements = f.read().splitlines()
 
 setup(
