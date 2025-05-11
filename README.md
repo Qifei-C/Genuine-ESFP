@@ -1,4 +1,4 @@
-# Genuine ESFP — **E**stimate → **S**mooth → **F**ilter → **P**ose‑Tracking
+# Genuine ESFP — **E**stimate → **S**mooth → **F**ilter → **P**ose‑Mapping
 
 *Real‑time monocular 3D pose extraction and robotic imitation for the SwiftPro desktop arm*
 
