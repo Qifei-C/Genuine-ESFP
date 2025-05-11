@@ -132,7 +132,7 @@ If ESFP helped your research, cite:
 
 ```text
 @misc{genuine-esfp,
-  title   = {Genuine ESFP: Real-time Monocular 3D Pose Smoothing and Robotic Imitation},
+  title   = {Genuine ESFP: Estimating, Smoothing, Filtering, and Pose‑Mapping for Robotic Imitation},
   author  = {Qifei, Ruichen, Yuang},
   year    = {2025},
   howpublished = {\url{https://github.com/<your-org>/genuine-esfp}}
