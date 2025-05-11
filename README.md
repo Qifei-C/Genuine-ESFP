@@ -30,7 +30,7 @@ The repo also contains **unsupervised training code** that teaches the smoothing
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/<your-org>/genuine-esfp.git
+git clone https://github.com/Qifei-C/genuine-esfp.git
 cd genuine-esfp
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt   # or: pip install -e .
