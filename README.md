@@ -12,7 +12,7 @@
 
 **Genuine ESFP** turns a single RGB camera stream into smooth, physically‑valid commands for a 4‑DOF uArm SwiftPro.
 
-<img width="1333" alt="Model Architecture" src="https://github.com/user-attachments/assets/4ccc3824-ee35-4abe-89f5-46659a3cb122" />
+<img width="1024" alt="Model Architecture" src="https://github.com/user-attachments/assets/4ccc3824-ee35-4abe-89f5-46659a3cb122" />
 
 
 | Stage             | Folder               | Default impl.    | Purpose                                |
