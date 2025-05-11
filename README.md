@@ -10,7 +10,7 @@
 
 ## What is ESFP?
 
-![Slide1](https://github.com/user-attachments/assets/a8babe3e-2bec-42d6-bc47-ad3f68c8a934)
+![Model Architecture](https://github.com/user-attachments/assets/a8babe3e-2bec-42d6-bc47-ad3f68c8a934)
 
 **Genuine ESFP** turns a single RGB camera stream into smooth, physically‑valid commands for a 4‑DOF uArm SwiftPro.
 
