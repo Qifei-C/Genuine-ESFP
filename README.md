@@ -3,7 +3,7 @@
 *Real‑time monocular 3D pose extraction and robotic imitation for the SwiftPro desktop arm*
 
 ![CI](https://github.com/Qifei-C/Genuine-ESFP/actions/workflows/ci.yml/badge.svg)
-![License](https://github.com/Qifei-C/Genuine-ESFP/blob/main/LICENSE)
+![License](https://img.shields.io/github/license/Qifei-C/Genuine-ESFP)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 
 ---
