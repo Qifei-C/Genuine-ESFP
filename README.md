@@ -1,4 +1,4 @@
-# Genuine ESFP — **E**stimate → **S**mooth → **F**ilter → **P**ose‑Mapping
+# Genuine ESFP — **E**stimate, **S**mooth, **F**ilter, **P**ose‑Mapping
 
 *Real‑time monocular 3D pose extraction and robotic imitation for the SwiftPro desktop arm*
 
@@ -12,6 +12,7 @@
 
 **Genuine ESFP** turns a single RGB camera stream into smooth, physically‑valid commands for a 4‑DOF uArm SwiftPro.
 
+<img width="190" alt="image" src="https://github.com/user-attachments/assets/a4631095-0149-49d6-ba75-e332317fc894" />
 
 
 | Stage             | Folder               | Default impl.    | Purpose                                |
