@@ -36,13 +36,13 @@ python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt   # or: pip install -e .
 ```
 
-### 2. Download test data (optional)
+### 2. Download test data
 
 ```bash
 ./scripts/download_datasets.sh       # Human3.6M + demo videos (≈5 GB)
 ```
 
-### 3. Run the live demo ⚡
+### 3. Run the live demo
 
 > Requirements: a USB‑connected SwiftPro arm on `/dev/ttyUSB0` and a webcam at index `0`.
 
