@@ -1,6 +1,7 @@
 # Genuine ESFP: **E**stimating, **S**moothing, **F**iltering, and **P**ose‑Mapping
 
 *Real‑time monocular 3D pose extraction and robotic imitation for the SwiftPro desktop arm*
+A demo video is uploaded at [ESE6500 Final Project: DL Smoothing and Estimating, Smoothing + Filtering, Position-Mapping Demo](https://www.youtube.com/watch?v=7yrYrcs5UFk)
 
 ![CI](https://github.com/Qifei-C/Genuine-ESFP/actions/workflows/ci.yml/badge.svg)
 ![License](https://img.shields.io/github/license/Qifei-C/Genuine-ESFP)
@@ -8,7 +9,7 @@
 
 ---
 
-A demo video is uploaded at [https://www.youtube.com/watch?v=7yrYrcs5UFk](https://www.youtube.com/watch?v=7yrYrcs5UFk)
+
 
 ## What is ESFP?
 
