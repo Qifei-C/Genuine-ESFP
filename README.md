@@ -24,6 +24,7 @@
 
 The repo also contains **unsupervised training code** that teaches the smoothing network using only raw video, enforcing temporal & skeletal consistency—no mocap labels needed.
 
+A demo video is uploaded at [https://www.youtube.com/watch?v=7yrYrcs5UFk](https://www.youtube.com/watch?v=7yrYrcs5UFk)
 ---
 
 ## Quick start
