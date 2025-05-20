@@ -10,12 +10,9 @@ A demo video is uploaded at [ESE6500 Final Project: DL Smoothing and Estimating,
 
 ---
 
-
-
 ## What is ESFP?
 
 <img width="960" alt="Slide1" src="https://github.com/user-attachments/assets/88a19d27-0db7-4a29-94dc-68b62f333912" />
-
 
 **Genuine ESFP** turns a single RGB camera stream into smooth, physically‑valid commands for a 4‑DOF uArm SwiftPro.
 
@@ -27,8 +24,6 @@ A demo video is uploaded at [ESE6500 Final Project: DL Smoothing and Estimating,
 | **P**ose‑Tracking | `src/m2s/control/`   | SwiftPro USB API | Low‑latency joint commands             |
 
 The repo also contains **unsupervised training code** that teaches the smoothing network using only raw video, enforcing temporal & skeletal consistency—no mocap labels needed.
-
-
 
 ---
 
