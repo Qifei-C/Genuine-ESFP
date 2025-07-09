@@ -7,7 +7,7 @@ A demo video is uploaded at [ESE6500 Final Project: DL Smoothing and Estimating,
 ![CI](https://github.com/Qifei-C/Genuine-ESFP/actions/workflows/ci.yml/badge.svg)
 ![License](https://img.shields.io/github/license/Qifei-C/Genuine-ESFP)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
-![arXiv](arxiv)
+!![arXiv](https://img.shields.io/badge/arXiv-2506.21234-b31b1b.svg)](https://arxiv.org/abs/2506.21234)
 
 ---
 
