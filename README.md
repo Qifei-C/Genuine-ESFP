@@ -3,6 +3,7 @@
 *Real‑time monocular 3D pose extraction and robotic imitation for the SwiftPro desktop arm*
 
 Read Full Paper on [arXiv](https://arxiv.org/abs/2506.21234)
+
 A demo video is uploaded at [ESE6500 Final Project: DL Smoothing and Estimating, Smoothing + Filtering, Position-Mapping Demo](https://www.youtube.com/watch?v=7yrYrcs5UFk)
 
 ![CI](https://github.com/Qifei-C/Genuine-ESFP/actions/workflows/ci.yml/badge.svg)
