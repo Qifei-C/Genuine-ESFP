@@ -1,4 +1,4 @@
-# Genuine ESFP: **E**stimating, **S**moothing, **F**iltering, and **P**ose‑Mapping
+# Real-time ESFP: **E**stimating, **S**moothing, **F**iltering, and **P**ose‑Mapping
 
 *Real‑time monocular 3D pose extraction and robotic imitation for the SwiftPro desktop arm*
 
@@ -157,4 +157,5 @@ Distributed under the MIT License.
 See [`LICENSE`](LICENSE) for full text.
 
 ---
+
 
